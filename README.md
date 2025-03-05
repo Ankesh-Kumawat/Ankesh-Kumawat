@@ -1,14 +1,13 @@
   <h1 align="center">Hi 👋, I'm Ankesh Kumawat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate App developer from India</h3>
 <img  src="https://media.giphy.com/media/K5kfQExKk731K/giphy.gif" width="100%" align="top" alt="">
-- 🌱 I’m currently learning **Web development,**
 
-- 👨‍💻 All of my projects are available at (https://www.linkedin.com/in/ankesh-kumawat-985362310?
-- 💬 Ask me about **HTML,CSS,C**
+App & Web Developer | AI Enthusiast
 
-- 📫 How to reach me **ankeshkumawat155@gmail.com**
-
-- ⚡ Fun fact **I am a Music lover**
+👨‍💻 All of my projects are available at [Your Portfolio Link]
+💪 I create apps and websites with the help of AI
+📫 How to reach me: ankeshkumawat155@gmail.com
+⚡ Fun fact: I am a Music lover
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
