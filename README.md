@@ -25,9 +25,9 @@
   <a href="https://linkedin.com/in/ankesh-kumawat-985362310" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/webcodex_" target="_blank">
+<!--   <a href="https://instagram.com/webcodex_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  </a> -->
 </div>
 
 <h2 align="center">🌟 Featured Apps & Projects 🌟</h2>
@@ -69,7 +69,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=android,flutter,firebase,java,kotlin" /><br>
+    <img src="https://skillicons.dev/icons?i=android,flutter,firebase,java,kotlin,supabase" /><br>
 
 <br/>
 
